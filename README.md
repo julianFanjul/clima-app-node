@@ -1,7 +1,9 @@
 ## aplicación del clima - node js
 
 
-librerias -> YARGS
+librerias 
+-> YARGS 
+-> AXIOS
 
 ## EJEMPLO:
 ```
